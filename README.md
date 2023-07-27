@@ -1,6 +1,8 @@
+(https://media.licdn.com/dms/image/D5616AQEuIvXrY3-O1A/profile-displaybackgroundimage-shrink_350_1400/0/1686898466645?e=1695859200&v=beta&t=fSEWm5Cw21EE4XqJjeNuIVE0zSv9epK8SrljdvKUXgc)
+
 ### Hi there 👋, my name is Moriam Akter Swarna
 #### I'm a MERN Stack Developer
-![I'm a MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQEuIvXrY3-O1A/profile-displaybackgroundimage-shrink_350_1400/0/1686898466645?e=1695859200&v=beta&t=fSEWm5Cw21EE4XqJjeNuIVE0zSv9epK8SrljdvKUXgc)
+![I'm a MERN Stack Developer]
 
 🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓
 
@@ -44,4 +46,3 @@ Skills: JS / REACT / HTML / CSS/ Bootstrap / Tailwind / Material UI / Node JS / 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MoriamAkterSwarna)  
 
-![Profile views](https://gpvc.arturio.dev/MoriamAkterSwarna)  
