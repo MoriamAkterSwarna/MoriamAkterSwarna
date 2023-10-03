@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 # 💫 About Me:
 ## Hi there 👋, my name is Moriam Akter Swarna<br>### I'm a MERN Stack Developer <br>![I'm a MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQGBq2snEtDCbg/profile-displaybackgroundimage-shrink_350_1400/0/1696325097585?e=1701907200&v=beta&t=4XV98tBTVkVgqa-8wiGz06fMtIHKfdnUlU9elkiNKcY)<br><br>- 🌱 I’m currently learning **Next JS, Redux**
 - 💬 Ask me about **JavaScript, React, Express JS** <br> <br>🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓<br><br>👩‍💻 MERN stack developer with a passion for building interactive and user-friendly web applications. 👩‍💻<br><br>💡 Always eager to learn and explore new technologies to stay ahead in the rapidly evolving world of web development. 💡<br><br>🌟 Completed a comprehensive web development course at Programming Hero, honing my skills and gaining practical experience. 🌟<br><br>🚀 I love turning ideas into reality through clean, efficient, and scalable code. Let's collaborate and build something amazing together! 🚀<br><br>🌱 Currently, I'm actively seeking new opportunities to contribute to exciting projects and grow as a developer. 🌱<br><br>📫 You can reach me at moriamswarna1@gmail.com. Let's connect and share our knowledge! 📫<br><br>🌐 Check out my portfolio website to see some of my recent projects and learn more about my skills and experiences: https://moriam-akter-swarna.netlify.app/ 🌐
@@ -13,6 +12,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=MoriamAkterSwarna&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoriamAkterSwarna&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriamAkterSwarna&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoriamAkterSwarna&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoriamAkterSwarna&theme=2077" height="180em" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MoriamAkterSwarna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
