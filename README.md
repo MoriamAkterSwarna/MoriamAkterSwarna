@@ -2,20 +2,15 @@
 
 <br>
 
-# Current Overview <br>
+# Current Overview
 
- <!-- <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
- <div> -->
-
-🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓<br><br>👩‍💻 MERN stack developer with a passion for building interactive and user-friendly web applications. 👩‍💻<br><br>💡 Always eager to learn and explore new technologies to stay ahead in the rapidly evolving world of web development. 💡<br><br>🌟 Completed a comprehensive web development course at Programming Hero, honing my skills and gaining practical experience. 🌟<br><br>🚀 I love turning ideas into reality through clean, efficient, and scalable code. Let's collaborate and build something amazing together! 🚀<br><br>🌱 Currently, I'm actively seeking new opportunities to contribute to exciting projects and grow as a developer. 🌱<br><br>📫 You can reach me at moriamswarna1@gmail.com. Let's connect and share our knowledge! 📫<br><br>🌐 Check out my portfolio website to see some of my recent projects and learn more about my skills and experiences: https://www.moriamakterswarna.me/ 🌐
+🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓<br><br>👩‍💻 MERN stack developer with a passion for building interactive and user-friendly web applications. 👩‍💻<br><br>💡 Always eager to learn and explore new technologies to stay ahead in the rapidly evolving world of web development. 💡<br><br>🌟 Completed a comprehensive web development course at Programming Hero, honing my skills and gaining practical experience. 🌟<br><br>🚀 I love turning ideas into reality through clean, efficient, and scalable code. Let's collaborate and build something amazing together! <br><br>🌱 Currently, I'm actively seeking new opportunities to contribute to exciting projects and grow as a developer. 🌱<br><br>📫 You can reach me at moriamswarna1@gmail.com. Let's connect and share our knowledge! 📫<br><br>🌐 Check out my portfolio website to see some of my recent projects and learn more about my skills and experiences: https://www.moriamakterswarna.me/ 🌐
 <br>
 
-<!-- </div> -->
-<!-- <div>
-<a href="https://app.daily.dev/moriamakterswarna"><img src="https://api.daily.dev/devcards/6c4bd70a9d9f43c3ba1692f5fd2cd684.png?r=s4d" width="300" alt="Moriam Akter Swarna's Dev Card"/></a> </div>
-</div> -->
+<!--
+<a href="https://app.daily.dev/moriamakterswarna"><img src="https://api.daily.dev/devcards/6c4bd70a9d9f43c3ba1692f5fd2cd684.png?r=s4d" width="300" alt="Moriam Akter Swarna's Dev Card"/></a>  -->
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mariam.swarna.76) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onindita_ms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moriamakterswarna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@moriam15-12880) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17117758) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__swarna__s)
 
