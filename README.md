@@ -1,4 +1,4 @@
-## Hi there 👋, Nice to See You<br><br>![I'm a MERN Stack Developer](./assets/myPicCover.png)
+## Hi there 👋, Nice to See You<br><br>![I'm a MERN Stack Developer](./assets/coverPic.png)
 
 <br>
 
