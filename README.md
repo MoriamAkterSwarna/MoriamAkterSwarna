@@ -58,7 +58,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MoriamAkterSwarna&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MoriamAkterSwarna&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MoriamAkterSwarna&theme=dracula"/>
 
