@@ -35,10 +35,6 @@
 
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 30px; ">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriamAkterSwarna&theme=dark&layout=compact)
-
 ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoriamAkterSwarna&theme=dracula)
 
 
@@ -46,22 +42,6 @@
 
 ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoriamAkterSwarna&theme=dracula)
 
-</div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MoriamAkterSwarna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div style="display:flex; justify-content: space-between;
-  align-items: center;">
-
-<div style="width:50%;">
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-</div>
 
 <div style="width:50%; margin-left: 30px;">
 
