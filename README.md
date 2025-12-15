@@ -1,66 +1,267 @@
-## Hi there 👋, Nice to See You<br><br>![I'm a MERN Stack Developer](./assets/coverPic.png)
+<div align="center">
 
-<br>
+# 👋 Hi, I'm Moriam Akter Swarna
 
-# Current Overview
+### 💻 Senior Web Instructor @ Programming Hero | MERN Stack Developer | Tech Educator
 
-💻Currently working as Web Instructor in Programming Hero💻 <br/> </br>
-🎓 Recent BSc graduate in Computer Science and Engineering from Daffodil International University. 🎓<br><br>👩‍💻 MERN stack developer with a passion for building interactive and user-friendly web applications. 👩‍💻<br><br>💡 Always eager to learn and explore new technologies to stay ahead in the rapidly evolving world of web development. 💡<br><br>🌟 Completed a comprehensive web development course at Programming Hero, honing my skills and gaining practical experience. 🌟<br><br>🚀 I love turning ideas into reality through clean, efficient, and scalable code. Let's collaborate and build something amazing together! <br><br>🌱 Currently, I'm actively seeking new opportunities to contribute to exciting projects and grow as a developer. 🌱<br><br>📫 You can reach me at moriamswarna1@gmail.com. Let's connect and share our knowledge! 📫<br><br>🌐 Check out my portfolio website to see some of my recent projects and learn more about my skills and experiences: https://www.moriamakterswarna.me/ 🌐
-<br>
+<p>
+  <a href="https://www.moriamakterswarna.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/moriam-akter-swarna-ms" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@firebird1" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:moriamakterswarna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mariam.swarna.76) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onindita_ms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moriamakterswarna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@moriam15-12880) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17117758) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__swarna__s)
-
-# 💻 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoriamAkterSwarna&theme=midnight-purple&hide_border=false" width=70% alt="GitHub Streak Stats" />
-</div>
-<br>
-
-# 📈 Statistics
-
-</hr>
-
-<div style="display: flex; justify-content: center;">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MoriamAkterSwarna&theme=dark&show_icons=true)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WEB+Developer;Web+Instructor;Content+Researcher;Lifelong+Learner;AI+Enthusiast" alt="Typing SVG" />
 
 </div>
-
-![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoriamAkterSwarna&theme=dracula)
-
-
-![Summary Cards Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoriamAkterSwarna&theme=dracula)
-
-![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoriamAkterSwarna&theme=dracula)
-
-
-<div style="width:50%; margin-left: 30px;">
-
-### 📓 Dev Card
-
-<a href="https://app.daily.dev/moriamakterswarna"><img src="https://api.daily.dev/devcards/6c4bd70a9d9f43c3ba1692f5fd2cd684.png?r=s4d" width="300" alt="Moriam Akter Swarna's Dev Card"/></a>
-
-</div>
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=MoriamAkterSwarna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MoriamAkterSwarna&icon=5&color=11)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MoriamAkterSwarna&theme=dracula"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+```javascript
+const moriam = {
+    location: "📍 Dhaka, Bangladesh",
+    role: "Senior Web Instructor & Content Researcher",
+    company: "Programming Hero",
+    education: "BSc in CSE - Daffodil International University",
+    experience: "2 years in tech education",
+    specialization: ["MERN Stack", "Web Development", "DSA"],
+    currentlyLearning: ["Data Structures", "Algorithms", "System Design"],
+    hobbies: ["Teaching", "Writing Tech Blogs", "Building Projects"]
+};
+
+// My Mission
+const mission = () => {
+    return "Empowering developers through education 
+            while building scalable web solutions";
+};
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🎯 What I Do
+
+🏫 **Educate & Inspire**  
+Creating high-quality content for aspiring developers
+
+💡 **Build & Innovate**  
+Developing user-friendly MERN stack applications
+
+🔍 **Research & Explore**  
+Staying updated with cutting-edge technologies
+
+🌱 **Grow Continuously**  
+Mastering DSA and design patterns
+
+🤝 **Collaborate**  
+Open to exciting projects and opportunities
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frontend Development
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+### 🔧 Backend Development
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 🚀 Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+### 📊 Data Science & Analytics
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=MoriamAkterSwarna&theme=neon&hide_border=false" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriamAkterSwarna&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+### 📈 Contribution Graph
+
+[![Moriam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoriamAkterSwarna&theme=react-dark&hide_border=true&area=true)](https://github.com/MoriamAkterSwarna)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=MoriamAkterSwarna&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=MoriamAkterSwarna&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="60px"/>
+<br><strong>Portfolio</strong>
+<br><a href="https://www.moriamakterswarna.me/">Visit Site</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60px"/>
+<br><strong>LinkedIn</strong>
+<br><a href="https://linkedin.com/in/moriam-akter-swarna-ms">Connect</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/medium-logo.png" width="60px"/>
+<br><strong>Medium</strong>
+<br><a href="https://medium.com/@firebird1">Read Articles</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60px"/>
+<br><strong>Email</strong>
+<br><a href="mailto:moriamakterswarna@gmail.com">Send Mail</a>
+</td>
+</tr>
+</table>
+
+### 💬 Open to Collaboration!
+
+**I'm actively seeking opportunities to contribute to exciting projects and grow as a developer.**  
+**Let's build something amazing together! 🚀**
+
+</div>
+
+---
+
+## 📌 Pinned Highlights
+
+<div align="center">
+
+```diff
++ 2+ Years of Experience in Tech Education
++ Mastered MERN Stack Development
++ Creating Educational Content for 1000+ Students
++ Active Open Source Contributor
++ Constantly Learning DSA 
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"I love turning ideas into reality through clean, efficient, and scalable code!"*
+
+![Profile Views](https://visitcount.itsvg.in/api?id=MoriamAkterSwarna&icon=0&color=0)
+
+---
+
+**⭐ If you find my work interesting, feel free to star some repositories!**
+
+<sub>Built with ❤️ by Moriam Akter Swarna | Last Updated: December 2024</sub>
+
+</div>
