@@ -5,7 +5,7 @@
 ### 💻 Senior Web Instructor @ Programming Hero | MERN Stack Developer | Tech Educator
 
 <p>
-  <a href="https://www.moriamakterswarna.me/" target="_blank">
+  <a href="https://moriam-akter-swarna-ms.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/moriam-akter-swarna-ms" target="_blank">
