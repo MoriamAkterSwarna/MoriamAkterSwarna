@@ -39,7 +39,7 @@ const moriam = {
     education: "BSc in CSE - Daffodil International University",
     experience: "2 years in tech education",
     specialization: ["MERN Stack", "Web Development", "DSA"],
-    currentlyLearning: ["Data Structures", "Algorithms", "System Design"],
+    currentlyLearning: ["Data Structures", "Algorithms"],
     hobbies: ["Teaching", "Writing Tech Blogs", "Building Projects"]
 };
 
@@ -65,7 +65,7 @@ Developing user-friendly MERN stack applications
 Staying updated with cutting-edge technologies
 
 🌱 **Grow Continuously**  
-Mastering DSA and design patterns
+Mastering Data Structure & Algorithms
 
 🤝 **Collaborate**  
 Open to exciting projects and opportunities
@@ -202,30 +202,25 @@ Open to exciting projects and opportunities
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="60px"/>
-<br><strong>Portfolio</strong>
-<br><a href="https://www.moriamakterswarna.me/">Visit Site</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60px"/>
-<br><strong>LinkedIn</strong>
-<br><a href="https://linkedin.com/in/moriam-akter-swarna-ms">Connect</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/medium-logo.png" width="60px"/>
-<br><strong>Medium</strong>
-<br><a href="https://medium.com/@firebird1">Read Articles</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60px"/>
-<br><strong>Email</strong>
-<br><a href="mailto:moriamakterswarna@gmail.com">Send Mail</a>
-</td>
-</tr>
-</table>
+### 💬 Social Media & Professional Networks
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moriam-akter-swarna-ms)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jannatul.mariam.606617)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@firebird1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queen.phoenixx23@gmail.com)
+
+### 💻 Coding Platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/moriam_swarna)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/moriam_ph)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/moriamswarna)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moriam_swarna)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/firebirdswarna)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/moriam-akter-swarna)
+
+</div>
+
+---
 
 ### 💬 Open to Collaboration!
 
@@ -244,8 +239,40 @@ Open to exciting projects and opportunities
 + 2+ Years of Experience in Tech Education
 + Mastered MERN Stack Development
 + Creating Educational Content for 1000+ Students
-+ Active Open Source Contributor
 + Constantly Learning DSA 
+```
+
+</div>
+
+---
+---
+
+## 💡 Fun Facts About Me
+
+<div align="center">
+
+```typescript
+interface Developer {
+  code: string[];
+  askMeAbout: string[];
+  technologies: {
+    frontEnd: string[];
+    backEnd: string[];
+    databases: string[];
+  };
+  funFact: string;
+}
+
+const moriam: Developer = {
+  code: ["JavaScript", "C++", "TypeScript"],
+  askMeAbout: ["Web Dev", "Tech Education", "Problem Solving"],
+  technologies: {
+    frontEnd: ["React", "Next.js", "Tailwind CSS"],
+    backEnd: ["Node.js", "Express", "MongoDB"],
+    databases: ["MongoDB", "PostgreSQL"]
+  },
+  funFact: "I debug code in my dreams 😴💭"
+};
 ```
 
 </div>
@@ -256,7 +283,7 @@ Open to exciting projects and opportunities
 
 ### 💡 *"I love turning ideas into reality through clean, efficient, and scalable code!"*
 
-![Profile Views](https://visitcount.itsvg.in/api?id=MoriamAkterSwarna&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=MoriamAkterSwarna&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -265,3 +292,19 @@ Open to exciting projects and opportunities
 <sub>Built with ❤️ by Moriam Akter Swarna | Last Updated: December 2024</sub>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
