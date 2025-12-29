@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Moriam Akter Swarna
 
-### 💻 Senior Web Instructor @ Programming Hero | MERN Stack Developer | Tech Educator
+### 💻 Senior Web Instructor @ Programming Hero | Web Developer | Tech Educator
 
 <p>
   <a href="https://moriam-akter-swarna-ms.netlify.app/" target="_blank">
