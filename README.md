@@ -289,7 +289,7 @@ const moriam: Developer = {
 
 **⭐ If you find my work interesting, feel free to star some repositories!**
 
-<sub>Built with ❤️ by Moriam Akter Swarna | Last Updated: December 2024</sub>
+<sub>Built with 💌 by Moriam Akter Swarna | Last Updated: December 2026</sub>
 
 </div>
 
