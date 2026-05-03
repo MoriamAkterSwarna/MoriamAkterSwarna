@@ -1,27 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm Moriam Akter Swarna
-
-### 💻 Senior Web Instructor @ Programming Hero | Web Developer | Tech Educator
-
-<p>
-  <a href="https://moriamakterswarna.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/moriam-akter-swarna-ms" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@firebird1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:moriamakterswarna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WEB+Developer;Web+Instructor;Content+Researcher;Lifelong+Learner;AI+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moriam%20Akter%20Swarna&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Senior%20Web%20Instructor%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20Tech%20Educator&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)](https://moriamakterswarna.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)](https://linkedin.com/in/moriam-akter-swarna-ms)&nbsp;
+[![Medium](https://img.shields.io/badge/◈%20Medium-0f0c29?style=for-the-badge&logo=medium&logoColor=e0d7ff)](https://medium.com/@firebird1)&nbsp;
+[![Gmail](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)](mailto:moriamakterswarna@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=✦+Senior+Web+Instructor+@+Programming+Hero+✦;✦+MERN+Stack+Architect+✦;✦+Tech+Content+Researcher+✦;✦+DSA+Practitioner+✦;✦+Lifelong+Learner+%26+AI+Enthusiast+✦" />
+
+</div>
+
+<br/>
 
 ---
 
