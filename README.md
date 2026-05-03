@@ -19,8 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=✦+Senior+Web+Instructor+@+Programming+Hero+✦;✦+MERN+Stack+Architect+✦;✦+Tech+Content+Researcher+✦;✦+DSA+Practitioner+✦;✦+Lifelong+Learner+%26+AI+Enthusiast+✦" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Senior+Web+Instructor+@+Programming+Hero+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+DSA+Practitioner+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
 </div>
 
 <br/>
@@ -78,235 +77,138 @@ Open to exciting projects and opportunities
 
 ---
 
-## 🛠️ Tech Stack & Tools
+
+## ❖ &nbsp;Tech Stack & Expertise
 
 <div align="center">
 
-### 👨‍💻 Languages
+### ◈ &nbsp;Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=3670A0)
+![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-### ⚛️ Frontend Development
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+### ◈ &nbsp;Frontend
 
-### 🔧 Backend Development
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0f0c29?style=for-the-badge&logo=redux&logoColor=764ABC)
+![React Query](https://img.shields.io/badge/React_Query-0f0c29?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0f0c29?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f0c29?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-0f0c29?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### ◈ &nbsp;Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-0f0c29?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0f0c29?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0f0c29?style=for-the-badge&logoColor=white)
 
-### 🚀 Tools & Platforms
+### ◈ &nbsp;Databases & Cloud
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-### 📊 Data Science & Analytics
+### ◈ &nbsp;DevOps & Tools
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0f0c29?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Postman](https://img.shields.io/badge/Postman-0f0c29?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0f0c29?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Notion](https://img.shields.io/badge/Notion-0f0c29?style=for-the-badge&logo=notion&logoColor=white)
+
+### ◈ &nbsp;Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=150458)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Plotly](https://img.shields.io/badge/Plotly-0f0c29?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
 </div>
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MoriamAkterSwarna&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MoriamAkterSwarna&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoriamAkterSwarna&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📊 GitHub Statistics
+---
+
+### ◈ &nbsp;Contribution Graph
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%">
-
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=MoriamAkterSwarna&theme=neon&hide_border=false" alt="GitHub Streak" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriamAkterSwarna&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-### 📈 Contribution Graph
-
-[![Moriam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoriamAkterSwarna&theme=react-dark&hide_border=true&area=true)](https://github.com/MoriamAkterSwarna)
+[![Moriam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoriamAkterSwarna&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/MoriamAkterSwarna)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+---
+
+## ❖ &nbsp;Competitive Coding
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=MoriamAkterSwarna&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://www.leetcode.com/moriam_swarna)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/moriam_ph)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-0f0c29?style=for-the-badge&logo=codechef&logoColor=B17457)](https://www.codechef.com/users/moriamswarna)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-0f0c29?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/moriam_swarna)&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-0f0c29?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/firebirdswarna)&nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-0f0c29?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/moriam-akter-swarna)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## ❖ &nbsp;Developer Philosophy
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=MoriamAkterSwarna&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+> *"I believe great code is not just functional — it is thoughtful, elegant, and built to last."*
+> 
+> **— Moriam Akter Swarna**
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## ❖ &nbsp;Open to Collaboration
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**I am actively seeking opportunities to contribute to impactful projects,**  
+**collaborate with driven engineers, and continue growing as a developer.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)](https://linkedin.com/in/moriam-akter-swarna-ms)&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:moriamakterswarna@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](https://moriamakterswarna.vercel.app/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MoriamAkterSwarna&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-## 📫 Let's Connect
+<br/>
 
 <div align="center">
 
-### 💬 Social Media & Professional Networks
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moriam-akter-swarna-ms)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jannatul.mariam.606617)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@firebird1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queen.phoenixx23@gmail.com)
-
-### 💻 Coding Platforms
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/moriam_swarna)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/moriam_ph)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/moriamswarna)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/moriam_swarna)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/firebirdswarna)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/moriam-akter-swarna)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Build%20Something%20Remarkable&fontSize=20&fontColor=a89fd4&fontAlignY=65&animation=fadeIn" />
 
 </div>
-
----
-
-### 💬 Open to Collaboration!
-
-**I'm actively seeking opportunities to contribute to exciting projects and grow as a developer.**  
-**Let's build something amazing together! 🚀**
-
-</div>
-
----
-
-## 📌 Pinned Highlights
-
-<div align="center">
-
-```diff
-+ 2+ Years of Experience in Tech Education
-+ Mastered MERN Stack Development
-+ Creating Educational Content for 1000+ Students
-+ Constantly Learning DSA 
-```
-
-</div>
-
----
----
-
-## 💡 Fun Facts About Me
-
-<div align="center">
-
-```typescript
-interface Developer {
-  code: string[];
-  askMeAbout: string[];
-  technologies: {
-    frontEnd: string[];
-    backEnd: string[];
-    databases: string[];
-  };
-  funFact: string;
-}
-
-const moriam: Developer = {
-  code: ["JavaScript", "C++", "TypeScript"],
-  askMeAbout: ["Web Dev", "Tech Education", "Problem Solving"],
-  technologies: {
-    frontEnd: ["React", "Next.js", "Tailwind CSS"],
-    backEnd: ["Node.js", "Express", "MongoDB"],
-    databases: ["MongoDB", "PostgreSQL"]
-  },
-  funFact: "I debug code in my dreams 😴💭"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"I love turning ideas into reality through clean, efficient, and scalable code!"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=MoriamAkterSwarna&color=blueviolet&style=for-the-badge)
-
----
-
-**⭐ If you find my work interesting, feel free to star some repositories!**
-
-<sub>Built with 💌 by Moriam Akter Swarna | Last Updated: December 2026</sub>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
