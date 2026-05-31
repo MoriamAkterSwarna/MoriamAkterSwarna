@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moriam%20Akter%20Swarna&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Senior%20Web%20Instructor%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20Tech%20Educator&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moriam%20Akter%20Swarna&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Senior%20Web%20Instructor%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Tech%20Educator&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Senior+Web+Instructor+@+Programming+Hero+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Senior+Web+Instructor+@+Programming+Hero+%E2%9C%A6;%E2%9C%A6+Full+Stack+Developer+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
 </div>
 
 <br/>
@@ -39,15 +39,15 @@ const moriam = {
     company: "Programming Hero",
     education: "BSc in CSE - Daffodil International University",
     experience: "2 years in tech education",
-    specialization: ["MERN Stack", "Web Development", "DSA"],
-    currentlyLearning: ["Data Structures", "Algorithms"],
+    specialization: ["MERN Stack", "Web Development"],
+    currentlyLearning: ["PostgreSQL", "DSA"],
     hobbies: ["Teaching", "Writing Tech Blogs", "Building Projects"]
 };
 
 // My Mission
 const mission = () => {
-    return "Empowering developers through education 
-            while building scalable web solutions";
+    return "Building scalable, user-focused web applications
+            with clean, maintainable code";
 };
 ```
 
@@ -56,19 +56,19 @@ const mission = () => {
 
 ### 🎯 What I Do
 
-🏫 **Educate & Inspire**  
-Creating high-quality content for aspiring developers
+💻 Build 
+Developing full-stack web applications with React & Node.js
 
-💡 **Build & Innovate**  
-Developing user-friendly MERN stack applications
-
-🔍 **Research & Explore**  
+🔍 Research & Explore
 Staying updated with cutting-edge technologies
 
-🌱 **Grow Continuously**  
-Mastering Data Structure & Algorithms
+🌱 Grow Continuously
+Mastering Data Structures & Algorithms
 
-🤝 **Collaborate**  
+📝 Write & Share
+Writing about web dev, career clarity & growth mindset
+
+🤝 Collaborate
 Open to exciting projects and opportunities
 
 </td>
@@ -190,8 +190,8 @@ Open to exciting projects and opportunities
 
 <div align="center">
 
-**I am actively seeking opportunities to contribute to impactful projects,**  
-**collaborate with driven engineers, and continue growing as a developer.**
+**I am actively seeking Full-Stack or Frontend Developer roles
+and open to contributing to impactful projects with driven teams.**  
 
 <br/>
 
