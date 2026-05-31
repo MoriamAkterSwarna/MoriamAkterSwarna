@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Senior+Web+Instructor+@+Programming+Hero+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+DSA+Practitioner+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=22&duration=3000&pause=1000&color=9D8FFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Senior+Web+Instructor+@+Programming+Hero+%E2%9C%A6;%E2%9C%A6+MERN+Stack+Architect+%E2%9C%A6;%E2%9C%A6+Tech+Content+Researcher+%E2%9C%A6;%E2%9C%A6+%E2%9C%A6;%E2%9C%A6+Lifelong+Learner+%26+AI+Enthusiast+%E2%9C%A6"/>
 </div>
 
 <br/>
