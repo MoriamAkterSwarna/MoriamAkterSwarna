@@ -39,9 +39,9 @@ const moriam = {
     company: "Programming Hero",
     education: "BSc in CSE - Daffodil International University",
     experience: "2 years in tech education",
-    specialization: ["MERN Stack", "Web Development"],
+    specialization: ["Full Stack", "Web Development"],
     currentlyLearning: ["PostgreSQL", "DSA"],
-    hobbies: ["Teaching", "Writing Tech Blogs", "Building Projects"]
+    hobbies: ["Teaching", "Building Projects", "Exploring new things", "Learn and Adapt"]
 };
 
 // My Mission
