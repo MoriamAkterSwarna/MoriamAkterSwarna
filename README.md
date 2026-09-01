@@ -126,12 +126,6 @@ Open to exciting projects and opportunities
 ![Netlify](https://img.shields.io/badge/Netlify-0f0c29?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Notion](https://img.shields.io/badge/Notion-0f0c29?style=for-the-badge&logo=notion&logoColor=white)
 
-### ◈ &nbsp;Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=150458)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Plotly](https://img.shields.io/badge/Plotly-0f0c29?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
 </div>
 
@@ -168,21 +162,6 @@ Open to exciting projects and opportunities
 
 </div>
 
----
-
-## ❖ &nbsp;Developer Philosophy
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
-
-> *"I believe great code is not just functional — it is thoughtful, elegant, and built to last."*
-> 
-> **— Moriam Akter Swarna**
-
-</div>
 
 ---
 
