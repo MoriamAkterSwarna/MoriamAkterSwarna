@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```javascript
 const moriam = {
@@ -52,7 +52,7 @@ const mission = () => {
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 What I Do
 
