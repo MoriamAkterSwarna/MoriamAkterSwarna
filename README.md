@@ -41,7 +41,7 @@ const moriam = {
     experience: "2 years in tech education",
     specialization: ["Full Stack", "Web Development"],
     currentlyLearning: ["PostgreSQL", "DSA"],
-    hobbies: ["Teaching", "Building Projects", "Exploring new things", "Learn and Adapt"]
+    hobbies: [ "Building Projects", "Exploring new things", "Learn and Adapt", "Reading Books"]
 };
 
 // My Mission
