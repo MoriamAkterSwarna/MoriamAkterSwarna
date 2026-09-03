@@ -130,22 +130,20 @@ Open to exciting projects and opportunities
 </div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MoriamAkterSwarna&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MoriamAkterSwarna&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MoriamAkterSwarna&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### ◈ &nbsp;Contribution Graph
+## 📊 GitHub Stats:
 
 <div align="center">
 
-[![Moriam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoriamAkterSwarna&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/MoriamAkterSwarna)
+<img height="200" src="https://github-readme-stats.shion.dev/api?username=MoriamAkterSwarna&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC&icon_color=95D5B2" />
+
+<br/>
+<img height="220" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MoriamAkterSwarna&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=MoriamAkterSwarna&hide_border=true&background=0D1B2A&ring=52B788&fire=95D5B2&currStreakLabel=52B788&sideLabels=E0FBFC&currStreakNum=E0FBFC&sideNums=E0FBFC&dates=7BA88C" />
 
 </div>
-
----
 
 ---
 
